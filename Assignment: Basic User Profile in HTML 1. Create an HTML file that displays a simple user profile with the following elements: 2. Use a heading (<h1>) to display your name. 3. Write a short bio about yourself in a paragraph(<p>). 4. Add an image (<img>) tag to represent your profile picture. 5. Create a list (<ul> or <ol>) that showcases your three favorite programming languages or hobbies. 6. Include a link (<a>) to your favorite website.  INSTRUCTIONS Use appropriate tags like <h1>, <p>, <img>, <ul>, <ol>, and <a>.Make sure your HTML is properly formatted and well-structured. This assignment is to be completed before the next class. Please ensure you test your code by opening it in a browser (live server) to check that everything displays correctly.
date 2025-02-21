@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Profile</title>
+</head>
+<body>
+  <h1>Chi-Chi</h1>
+  <p>My name is Chi Chi, from Nigeria, i am fully interested to learn more about BAckend Development</p>
+  <img src="pictures/free-photo-of-women-in-the-jungle.jpeg" height="400"/>
+
+  <br/>
+
+  <p>List of my three favorite programming languages or hobbies.</p>
+  <ul>
+    <li>Javascript</li>
+    <li>Python</li>
+    <li>Flutter</li>
+
+  <br/>
+
+  <a href="//www.w3schools.com/">w3schools</a>
+  </ul>
+</body>
+</html>

@@ -1,0 +1,32 @@
+let names = "Chi Chi"; 
+let age = 30; 
+
+console.log("Name:", names);
+console.log("Age:", age);
+
+// Functions
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+
+console.log(greet("precioussmart")); 
+
+// Conditional Statements
+function checkAge(age) {
+  if (age >= 18) {
+    console.log("Adult");
+  } else {
+    console.log("Minor");
+  }
+}
+
+console.log("Checking ages:");
+checkAge(15); 
+checkAge(18); 
+checkAge(25); 
+
+// Loops
+console.log("Counting from 1 to 5:");
+for (let i = 1; i <= 5; i++) {
+  console.log(i);
+}
